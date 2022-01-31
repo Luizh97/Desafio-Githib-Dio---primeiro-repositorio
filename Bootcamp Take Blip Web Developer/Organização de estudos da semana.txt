@@ -1,0 +1,20 @@
+Minha organização de estudos do dia 31/01 ao dia 06/01
+
+
+
+Dia 31/01: Criação do primeiro repositório no Github e primeiros passos para o desenvolvimento web.
+
+Dia 01/01: Introdução a criação de websites com HTML5 e CSS3.
+
+Dia 02/01: Construindo páginas para internet com Bootstrap.
+
+Dia 03/01: Recriando a interface do Netflix.
+
+Dia 04/01: IDE instalação e configuração (Visual Studio Code)
+
+Dia 05/01: Introdução ao JavaScript.
+
+Dia 06/01: Sintaxe básica em JavaScript.
+
+
+
